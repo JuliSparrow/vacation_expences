@@ -1,3 +1,5 @@
+package ru.netology.javaqa.javaqamvn.services;
+
 public class VacationExpencesService {
     public int calculate(int income, int expenses, int threshold) {
         int count = 0; // счётчик месяцев отдыха
